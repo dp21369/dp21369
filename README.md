@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/dp21369/dp21369/blob/main/img/banner-illustration.png" height="175px"/></a>
 
 <h3 align="center">Hey there, I'm <a href="https://devendrapali.com.np">DevendraPali</a> - aka dp21369 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
