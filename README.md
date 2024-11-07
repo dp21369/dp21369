@@ -124,7 +124,9 @@
 
 ---
   ## 💰 What's up with contribution???
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
+<p align="center">
+  <img src="https://github.com/dp21369/dp21369/blob/main/img/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution"/>
+</p>
  
 
 <!---
