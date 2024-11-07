@@ -124,7 +124,7 @@
 
 ---
   ## 💰 What's up with contribution???
-<p align="center">
+<p align="center" style="background-color :#000;">
   <img src="https://github.com/dp21369/dp21369/blob/main/img/github-contribution-grid-snake-dark.svg" alt="Snake eating contribution"/>
 </p>
  
